@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data (Kaggle)
+data_raw/
+*.tsv
+*.tsv.zip
+*.zip
+
+# Model / cache artifacts
+artifacts*/
+.hf/
+*.model
+*.bin
+*.safetensors
+*.pkl
+
+# Submissions (keep only what you want)
+submission*.csv
+
+# OS
+Thumbs.db
+Desktop.ini
+
