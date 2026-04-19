@@ -28,8 +28,8 @@
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
 - **提交日期**：2026-04-17（Asia/Shanghai）
 
-- **GitHub 仓库地址**：
-- **GitHub README 地址**：
+- **GitHub 仓库地址**：https://github.com/mujganeugene-droid/JiSuyu-112304260113-ML-Experiment2
+- **GitHub README 地址**：https://github.com/mujganeugene-droid/JiSuyu-112304260113-ML-Experiment2/edit/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到“姓名 + 学号”，否则无效。
 
